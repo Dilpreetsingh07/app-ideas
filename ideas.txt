@@ -1,0 +1,7 @@
+               Idea for App 
+
+
+    1. using phone as web cam.
+    2. getting text from a picture.
+    3. barCode Scanner.
+    4. TEXT RECONIZATION.
